@@ -1,0 +1,13 @@
+# Ignora file di configurazione o database temporanei
+# Ignora cartelle di sistema o di ambiente
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+formule vecchie/
+CRIvenv/
+GeoData/
+TEST_2/
+TEST_3/
+giro_non_ottimizzato.py
+indirizzi.json
